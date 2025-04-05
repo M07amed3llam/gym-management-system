@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Orders\\SeVenGYM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|d:\\orders\\sevengym\\sevengym2\\project\\forms\\formupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|solutionrelative:sevengym2\\project\\forms\\formupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|d:\\orders\\sevengym\\sevengym2\\project\\user controls\\usercontrolupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|solutionrelative:sevengym2\\project\\user controls\\usercontrolupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|d:\\orders\\sevengym\\sevengym2\\project\\user controls\\usercontrolupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|solutionrelative:sevengym2\\project\\user controls\\usercontrolupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|d:\\orders\\sevengym\\sevengym2\\project\\forms\\formupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AB2AC79-F92D-4FD3-A98A-8364527127A2}|SeVenGYM2\\SeVenGYM.csproj|solutionrelative:sevengym2\\project\\forms\\formupdateclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlUpdateClient.cs",
+              "DocumentMoniker": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "RelativeDocumentMoniker": "SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "ToolTip": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "RelativeToolTip": "SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:01:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlUpdateClient.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "RelativeDocumentMoniker": "SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs",
+              "ToolTip": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs [Design]",
+              "RelativeToolTip": "SeVenGYM2\\Project\\User Controls\\UserControlUpdateClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:01:03.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUpdateClient.cs",
+              "DocumentMoniker": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "RelativeDocumentMoniker": "SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "ToolTip": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "RelativeToolTip": "SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAuwD4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:58:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUpdateClient.cs [Design]",
+              "DocumentMoniker": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "RelativeDocumentMoniker": "SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs",
+              "ToolTip": "D:\\Orders\\SeVenGYM\\SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs [Design]",
+              "RelativeToolTip": "SeVenGYM2\\Project\\Forms\\FormUpdateClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:57:43.402Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
